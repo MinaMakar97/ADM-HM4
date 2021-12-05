@@ -5,5 +5,4 @@
 ### 2) `utils.py`
 > This python file contains functions that are used on the notebook 
 ### 3) `Corpus` 
-<<<<<<< HEAD
 > This directories contains peaks_freq.json, peaks_time.json, signature_matrix.json titles_tracks.json songs2.csv peaks_songs2.csv
