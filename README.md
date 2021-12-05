@@ -7,5 +7,3 @@
 ### 3) `Corpus` 
 <<<<<<< HEAD
 > This directories contains peaks_freq.json, peaks_time.json, signature_matrix.json titles_tracks.json songs2.csv peaks_songs2.csv
-=======
-> This directories contains peaks_freq.json, peaks_time.json, signature_matrix.json titles_tracks.json
